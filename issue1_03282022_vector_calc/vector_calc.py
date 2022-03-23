@@ -1,4 +1,3 @@
-import statsmodels
 import numpy as np
 import scipy
 
