@@ -2,7 +2,9 @@ import numpy as np
 import scipy
 
 class VectorCalculus:
-    pass
+
+    def gradient_descent(self):
+        pass
 
 def main():
     pass
