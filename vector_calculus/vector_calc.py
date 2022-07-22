@@ -6,7 +6,7 @@ class VectorCalculus:
         pass
 
 def main():
-    pass
+    print("is this working")
 
 if __name__ == "__main__":
     main()

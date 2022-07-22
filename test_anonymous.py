@@ -1,4 +1,4 @@
-from issue1_03282022_vector_calc.vector_calc import VectorCalculus
+from vector_calculus.vector_calc import VectorCalculus
 from cryptography import Cryptography
 from differential_equations import DifferentialEquations
 from discrete_math import DiscreteMath
@@ -26,5 +26,5 @@ class TestGroomed(unittest.TestCase):
     def test_probability(self):
         pass
 
-    if __name__ == "__main__":
-        tg = TestGroomed()
+if __name__ == "__main__":
+    tg = TestGroomed()
