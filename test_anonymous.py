@@ -1,9 +1,9 @@
 from vector_calculus.vector_calc import VectorCalculus
-from cryptography import Cryptography
-from differential_equations import DifferentialEquations
-from discrete_math import DiscreteMath
-from linear_algebra import LinearAlgebra
-from probability import Probability
+from crypt.cryptography import Cryptography
+from diffy_q.differential_equations import DifferentialEquations
+from discrete.discrete_math import DiscreteMath
+from linalg.linear_algebra import LinearAlgebra
+from prob.probability import Probability
 import unittest
 
 class TestGroomed(unittest.TestCase):
